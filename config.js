@@ -3,6 +3,6 @@
     Example: apiUrl: "https://script.google.com/macros/s/AKfycbx....../exec"
 */
 window.CKD_CONFIG = {
-  apiUrl: "PASTE_YOUR_WEB_APP_URL_HERE"
+  apiUrl: "https://script.google.com/macros/s/AKfycbwBMKI3877Mwv4-ckufzLLmzrvSqPYt_ai7zjng2um1I-1bb79Twq2j79XgDg7iQRIp/exec"
 };
 if (!/^https:\/\/script\.google\.com\//.test(window.CKD_CONFIG.apiUrl)) window.CKD_CONFIG.apiUrl = "";
